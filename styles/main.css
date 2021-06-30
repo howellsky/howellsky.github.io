@@ -2051,50 +2051,140 @@ p > code {
     margin-bottom: 10px;
   }
 }
-
-    @media (max-width: 767px) {
-      .bg-img img {
-        display: none;
+body {
+      background-color: #dee2e6;
+    }.header {
+        width: 960px;
+        margin: 0 auto;
       }
-    }body {
-      background-color: #fffffffe !important;
+
+      .main-continer {
+        width: 960px;
+        margin: 0 auto;
+      }
+    body {
+      color: #555;
+    }
+    .next-md-body {
+      color: #555;
+    }
+    .next-md-body h1, .next-md-body h2 {
+      border-bottom-color: #555;
+    }
+    .archive-timeline-box::after, .tag-timeline-wrapper::after {
+      background: #eeeeeefe;
+    }h1, h2, h3, h4, h5, h6 {
+      color: #212529;
+    }
+    
+    .archive-timeline-title::before {
+      background-color: #212529;
+    }
+    
+    .post-title-link::before {
+      background-color: #212529;
+    }
+    
+    .node-title::before {
+      background-color: #212529;
+    }a {
+      color: #555;
+    }
+    
+    .next-md-body a, .friends-box a  {
+      color: #555;
+      border-bottom: 1px solid #555;
+    }a:hover {
+      color: #222;
+    }
+    
+    .archive-timeline-box .tag-node:hover::before {
+      background-color: #222;
+    }
+    
+    .markdownIt-TOC a:hover {
+      color: #222;
+      border-bottom-color: #222;
+    }
+
+    .next-md-body a:hover, .friends-box a:hover {
+      color: #222;
+      border-bottom-color: #222;
     }
     .nav-toggle .line {
-      background-color: undefined !important;
-    }.markdownIt-TOC a {
-      color: #000;
-      border-bottom-color: #000;
+      background-color:  !important;
+    }
+      .nav-item a {
+        color:  #555;
+      }.nav-item a:hover {
+        color: #222;
+      }.nav-item-active {
+      background: #fcc2d7fe;
+    }
+
+    .nav-item:hover {
+      background: #fcc2d7fe;
+      color: rgba(0, 0, 0, 0.98);
+    }.site-author-image {
+      border-radius: 50%;
+    }
+    .site-author-image:hover {
+      transform: rotate(666turn);
+      transition-delay: 1s;
+      transition-property: all;
+      transition-duration: 59s;
+      transition-timing-function: cubic-bezier(.34,0,.84,1);
+    }.pisces .blog-header, .gemini .blog-header {
+        right: 0;
+      }
+      .pisces .section-layout-wrapper, .gemini .section-layout-wrapper {
+        flex-direction: row-reverse !important;
+      }.pisces .sidebar, .gemini .sidebar {
+        right: 0;
+      }.markdownIt-TOC a {
+      color: #868e96;
+      border-bottom-color: #868e96;
     }.markdownIt-TOC a:hover {
-      color: #000;
-      border-bottom-color: #000;
+      color: #ffc9c9;
+      border-bottom-color: #ffc9c9;
     }.active-current > a {
-      color: #fc6423 !important;
-      border-bottom-color: #fc6423 !important;
+      color: #ced4da !important;
+      border-bottom-color: #ced4da !important;
     }
     .sidebar-title-active {
-      color: #fc6423 !important;
-      border-bottom-color: #fc6423 !important;
+      color: #ced4da;
+      border-bottom-color: #ced4da;
     }
     .sidebar-title-item:hover {
-      color: #fc6423 !important;
+      color: #ced4da !important;
     }
     .active-show > a {
-      color: #fc6423;
-      border-bottom-color: #fc6423;
+      color: #ced4da;
+      border-bottom-color: #ced4da;
     }
     .active-hidden > a {
-      color: #fc6423;
-      border-bottom-color: #fc6423;
+      color: #ced4da;
+      border-bottom-color: #ced4da;
     }.bg-color {
-      background-color: #fffffffe;
+      background-color: #adb5bdfe;
+    }
+    .site-meta {
+      background: #000 !important;
     }
     .head-top-line {
-      background: #222;
+      background: #000;
     }
     .brand {
-      background: transparent;
+      background: #000000fe;
     }
-    .box-shadow-wrapper {
+    .main-title, .brand {
+      color: #212529 !important;
+    }
+    .mist .site-title i {
+      background: #212529fe;
+    }.box-scale > #landlord {
+      transform: scale(1);
+    }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
       cursor: default;
