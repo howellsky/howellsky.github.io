@@ -2,11 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://howellsky.com</id>
     <title>Gridea</title>
-    <updated>2021-06-30T15:28:43.274Z</updated>
+    <updated>2021-06-30T15:53:00.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://howellsky.com"/>
     <link rel="self" href="https://howellsky.com/atom.xml"/>
     <logo>https://howellsky.com/images/avatar.png</logo>
     <icon>https://howellsky.com/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[nexT主题中【关于】访问问题]]></title>
+        <id>https://howellsky.com/post/gridea-next-zhu-ti-zhong-guan-yu-wu-fa-zheng-chang-tiao-zhuan-fang-wen/</id>
+        <link href="https://howellsky.com/post/gridea-next-zhu-ti-zhong-guan-yu-wu-fa-zheng-chang-tiao-zhuan-fang-wen/">
+        </link>
+        <updated>2021-06-29T16:01:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>在Gridea中的nexT主题，点击导航栏中的【关于】，无法正常访问网页</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>在Gridea中的nexT主题，点击导航栏中的【关于】，无法正常访问网页</p>
+<!-- more -->
+<p>正常访问应该是这样子：<br>
+<img src="https://howellsky.com/post-images/1624982874043.jpg" alt="" loading="lazy"></p>
+<!-- more -->
+<p>目前非正常访问是这样子：<br>
+<img src="https://howellsky.com/post-images/1624983005741.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于本站]]></title>
+        <id>https://howellsky.com/post/guan-yu/</id>
+        <link href="https://howellsky.com/post/guan-yu/">
+        </link>
+        <updated>2021-06-28T12:18:44.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝（呸，来了就不准走：）</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>一时兴起，想搭建一个自己的个人博客，发发文章也好，更重要的是记录。</p>
+<!-- more -->
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>一个平淡无奇的在读大学僧（至少目前是🤠</p>
+<!-- more -->
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>嗜玩，喜欢足球（菜鸡），热爱骑行（半骑游党），不喜欢读书👻</p>
+<!-- more -->
+<h2 id="联系我呀">📬 联系我呀</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea搭建博客问题]]></title>
+        <id>https://howellsky.com/post/grideagithub-page-da-jian-bo-ke-suo-yu-dao-de-wen-ti/</id>
+        <link href="https://howellsky.com/post/grideagithub-page-da-jian-bo-ke-suo-yu-dao-de-wen-ti/">
+        </link>
+        <updated>2021-06-28T11:26:14.000Z</updated>
+        <summary type="html"><![CDATA[<p>问题一：Gridea中的【分支】填main，而不是master,填写master会导致你同步的内容在浏览器无法显示（无法个人找了好多教程都是填写master，估计是教程制作时间较早，最后在作者的issues中找到答案）<br>
+原因：从 2020 年 10 月 1 日开始，GitHub 上的所有新库都将用中性词「main」命名，取代原来的「master」,因为后者是一个容易让人联想到奴隶制的术语。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>问题一：Gridea中的【分支】填main，而不是master,填写master会导致你同步的内容在浏览器无法显示（无法个人找了好多教程都是填写master，估计是教程制作时间较早，最后在作者的issues中找到答案）<br>
+原因：从 2020 年 10 月 1 日开始，GitHub 上的所有新库都将用中性词「main」命名，取代原来的「master」,因为后者是一个容易让人联想到奴隶制的术语。</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://howellsky.com/post-images/1624880195678.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这是一篇测试帖]]></title>
+        <id>https://howellsky.com/post/zhe-shi-yi-pian-ce-shi-tie/</id>
+        <link href="https://howellsky.com/post/zhe-shi-yi-pian-ce-shi-tie/">
+        </link>
+        <updated>2021-06-28T06:07:07.000Z</updated>
+        <content type="html"><![CDATA[<p>你好，Gridea！<br>
+你好，陌生人！<br>
+你好，这个世界！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://howellsky.com/post/hello-gridea/</id>
+        <link href="https://howellsky.com/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
 </feed>
