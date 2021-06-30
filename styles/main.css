@@ -2088,12 +2088,12 @@ body {
     .node-title::before {
       background-color: #212529;
     }a {
-      color: #555;
+      color: #ff6b6b;
     }
     
     .next-md-body a, .friends-box a  {
-      color: #555;
-      border-bottom: 1px solid #555;
+      color: #ff6b6b;
+      border-bottom: 1px solid #ff6b6b;
     }a:hover {
       color: #222;
     }
