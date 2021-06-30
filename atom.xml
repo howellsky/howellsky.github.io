@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://howellsky.com</id>
+    <id>http://howellsky.com</id>
     <title>Gridea</title>
-    <updated>2021-06-30T15:53:48.340Z</updated>
+    <updated>2021-06-30T15:55:32.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://howellsky.com"/>
-    <link rel="self" href="https://howellsky.com/atom.xml"/>
-    <logo>https://howellsky.com/images/avatar.png</logo>
-    <icon>https://howellsky.com/favicon.ico</icon>
+    <link rel="alternate" href="http://howellsky.com"/>
+    <link rel="self" href="http://howellsky.com/atom.xml"/>
+    <logo>http://howellsky.com/images/avatar.png</logo>
+    <icon>http://howellsky.com/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[nexT主题中【关于】访问问题]]></title>
-        <id>https://howellsky.com/post/gridea-next-zhu-ti-zhong-guan-yu-wu-fa-zheng-chang-tiao-zhuan-fang-wen/</id>
-        <link href="https://howellsky.com/post/gridea-next-zhu-ti-zhong-guan-yu-wu-fa-zheng-chang-tiao-zhuan-fang-wen/">
+        <id>http://howellsky.com/post/gridea-next-zhu-ti-zhong-guan-yu-wu-fa-zheng-chang-tiao-zhuan-fang-wen/</id>
+        <link href="http://howellsky.com/post/gridea-next-zhu-ti-zhong-guan-yu-wu-fa-zheng-chang-tiao-zhuan-fang-wen/">
         </link>
         <updated>2021-06-29T16:01:11.000Z</updated>
         <summary type="html"><![CDATA[<p>在Gridea中的nexT主题，点击导航栏中的【关于】，无法正常访问网页</p>
@@ -20,16 +20,16 @@
         <content type="html"><![CDATA[<p>在Gridea中的nexT主题，点击导航栏中的【关于】，无法正常访问网页</p>
 <!-- more -->
 <p>正常访问应该是这样子：<br>
-<img src="https://howellsky.com/post-images/1624982874043.jpg" alt="" loading="lazy"></p>
+<img src="http://howellsky.com/post-images/1624982874043.jpg" alt="" loading="lazy"></p>
 <!-- more -->
 <p>目前非正常访问是这样子：<br>
-<img src="https://howellsky.com/post-images/1624983005741.jpg" alt="" loading="lazy"></p>
+<img src="http://howellsky.com/post-images/1624983005741.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于本站]]></title>
-        <id>https://howellsky.com/post/guan-yu/</id>
-        <link href="https://howellsky.com/post/guan-yu/">
+        <id>http://howellsky.com/post/guan-yu/</id>
+        <link href="http://howellsky.com/post/guan-yu/">
         </link>
         <updated>2021-06-28T12:18:44.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
@@ -50,8 +50,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Gridea搭建博客问题]]></title>
-        <id>https://howellsky.com/post/grideagithub-page-da-jian-bo-ke-suo-yu-dao-de-wen-ti/</id>
-        <link href="https://howellsky.com/post/grideagithub-page-da-jian-bo-ke-suo-yu-dao-de-wen-ti/">
+        <id>http://howellsky.com/post/grideagithub-page-da-jian-bo-ke-suo-yu-dao-de-wen-ti/</id>
+        <link href="http://howellsky.com/post/grideagithub-page-da-jian-bo-ke-suo-yu-dao-de-wen-ti/">
         </link>
         <updated>2021-06-28T11:26:14.000Z</updated>
         <summary type="html"><![CDATA[<p>问题一：Gridea中的【分支】填main，而不是master,填写master会导致你同步的内容在浏览器无法显示（无法个人找了好多教程都是填写master，估计是教程制作时间较早，最后在作者的issues中找到答案）<br>
@@ -60,14 +60,14 @@
         <content type="html"><![CDATA[<p>问题一：Gridea中的【分支】填main，而不是master,填写master会导致你同步的内容在浏览器无法显示（无法个人找了好多教程都是填写master，估计是教程制作时间较早，最后在作者的issues中找到答案）<br>
 原因：从 2020 年 10 月 1 日开始，GitHub 上的所有新库都将用中性词「main」命名，取代原来的「master」,因为后者是一个容易让人联想到奴隶制的术语。</p>
 <!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://howellsky.com/post-images/1624880195678.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://howellsky.com/post-images/1624880195678.jpg" alt="" loading="lazy"></figure>
 <!-- more -->
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[这是一篇测试帖]]></title>
-        <id>https://howellsky.com/post/zhe-shi-yi-pian-ce-shi-tie/</id>
-        <link href="https://howellsky.com/post/zhe-shi-yi-pian-ce-shi-tie/">
+        <id>http://howellsky.com/post/zhe-shi-yi-pian-ce-shi-tie/</id>
+        <link href="http://howellsky.com/post/zhe-shi-yi-pian-ce-shi-tie/">
         </link>
         <updated>2021-06-28T06:07:07.000Z</updated>
         <content type="html"><![CDATA[<p>你好，Gridea！<br>
@@ -77,8 +77,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://howellsky.com/post/hello-gridea/</id>
-        <link href="https://howellsky.com/post/hello-gridea/">
+        <id>http://howellsky.com/post/hello-gridea/</id>
+        <link href="http://howellsky.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
