@@ -2134,14 +2134,15 @@ body {
       transition-property: all;
       transition-duration: 59s;
       transition-timing-function: cubic-bezier(.34,0,.84,1);
-    }.pisces .blog-header, .gemini .blog-header {
-        right: 0;
+    }.muse .sidebar, .mist .sidebar {
+        right: 0 !important;
+        left: auto !important;
       }
-      .pisces .section-layout-wrapper, .gemini .section-layout-wrapper {
-        flex-direction: row-reverse !important;
-      }.pisces .sidebar, .gemini .sidebar {
-        right: 0;
-      }.markdownIt-TOC a {
+      .drawer-box {
+        right: 30px !important;
+        left: auto !important;
+      }
+      .markdownIt-TOC a {
       color: #868e96;
       border-bottom-color: #868e96;
     }.markdownIt-TOC a:hover {
