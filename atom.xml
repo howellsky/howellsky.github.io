@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://howellsky.com</id>
     <title>Howell&apos;sBlog</title>
-    <updated>2021-11-18T14:31:10.984Z</updated>
+    <updated>2021-11-18T14:31:58.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://howellsky.com"/>
     <link rel="self" href="https://howellsky.com/atom.xml"/>
     <logo>https://howellsky.com/images/avatar.png</logo>
     <icon>https://howellsky.com/favicon.ico</icon>
     <rights>All rights reserved 2021, Howell&apos;sBlog</rights>
+    <entry>
+        <title type="html"><![CDATA[垃圾桶]]></title>
+        <id>https://howellsky.com/post/la-ji-tong/</id>
+        <link href="https://howellsky.com/post/la-ji-tong/">
+        </link>
+        <updated>2021-11-18T14:24:31.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nexT主题中【关于】访问问题]]></title>
         <id>https://howellsky.com/post/gridea-next-zhu-ti-zhong-guan-yu-wu-fa-zheng-chang-tiao-zhuan-fang-wen/</id>
